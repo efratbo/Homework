@@ -1,0 +1,17 @@
+
+{
+  "name": "driver-assignment",
+  "version": "1.0.0",
+  "description": "Driver assignment algorithm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "MIT"
+}
+
